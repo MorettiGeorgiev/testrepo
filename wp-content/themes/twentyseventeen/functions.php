@@ -526,3 +526,4 @@ require get_parent_theme_file_path( '/inc/customizer.php' );
  */
 require get_parent_theme_file_path( '/inc/icon-functions.php' );
 var_dump('hi');
+var_dump('here');
